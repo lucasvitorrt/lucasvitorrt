@@ -6,7 +6,7 @@
 - ⚡ Procurando novos caminhos.
 ##
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasvitorrt&show_icons=true&theme=chartreuse-dark&include_all_commits=true"> 
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasvitorrt&show_icons=true&theme=chartreuse-dark&include_all_commits=False"> 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvitorrt&layout=compact&theme=chartreuse-dark"> 
   
 </div>
