@@ -1,9 +1,9 @@
 ## Fala aí 🐱‍💻
 
 
-- 🔭 Atualmente trabalho com Banco de Dados.
-- 🌱 Estudando JavaScrip.
-- ⚡ Procurando novos caminhos.
+- 🔭 I'm currently working on Databases.
+- 🌱 I'm currently learning JavaScrip.
+- ⚡ Seeking out new challenges.
 ##
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasvitorrt&show_icons=true&theme=chartreuse-dark&include_all_commits=False"> 
