@@ -1,8 +1,8 @@
-## Fala aí 🐱‍💻
+## H3110 !!🐱‍💻
 
 
 - 🔭 I'm currently working on Databases.
-- 🌱 I'm currently learning JavaScrip.
+- 🌱 I'm currently learning JavaScript.
 - ⚡ Seeking out new challenges.
 ##
 <div>
